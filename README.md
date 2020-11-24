@@ -1,5 +1,5 @@
 # Cookie Parser
-A small and lightweight library for for creating, reading and deleting cookies.
+A small and lightweight library for creating, reading and deleting cookies.
 
 * < **260 bytes** gzipped!
 
