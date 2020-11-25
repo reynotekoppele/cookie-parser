@@ -37,7 +37,7 @@ Cookies.set("name", "value", {
 });
 ```
 
-You could als combine these options
+You could also combine these options
 ```Javascript
 Cookies.set("name", "value", {
   days: 7,
