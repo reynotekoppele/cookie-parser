@@ -1,7 +1,6 @@
 # Cookie Parser
 ![GitHub all releases](https://img.shields.io/github/downloads/theblackgigant/cookie-parser/total?logo=github&style=flat-square)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/theblackgigant/cookie-parser?label=version&style=flat-square)
-![GitHub file size in bytes](https://img.shields.io/github/size/theblackgigant/cookie-parser//cookie-parser.min.js?label=minified%20size&style=flat-square)
 
 A small and lightweight library for creating, reading and deleting cookies.
 
