@@ -1,7 +1,7 @@
 # Cookie Parser
 A small and lightweight library for creating, reading and deleting cookies.
 
-* < **260 bytes** gzipped!
+* < **350 bytes** gzipped!
 
 ## Direct Download
 You can easily download the javascript (minified or prettier) and load it in the browser.
